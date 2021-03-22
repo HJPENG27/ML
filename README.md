@@ -1,3 +1,3 @@
 # ML
 
-From the projects to learn more about different kinds of ML models. 
+To utilize different kinds of ML models to address the problems in the projects.
