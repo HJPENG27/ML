@@ -1,3 +1,3 @@
 # ML
 
-To utilize different kinds of ML models to address the problems in the projects.
+Utilize ML models to address the different problems in the projects.
